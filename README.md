@@ -1,2 +1,4 @@
-# fct_qt_calculadora
-Projeto para FCT - Calculadora em C++ utilizando QT Framework
+# CALCULADORA CRIADA EM C++ COM QT FRAMEWORK
+
+## Desenvolvido na SDILab(Balanças Marques)
+### Projeto para FCT - IEFP
