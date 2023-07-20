@@ -16,12 +16,16 @@ public:
     ~MainWindow();
 
 private slots:
+    // Slot para lidar com o clique no botão de soma
     void on_btnSoma_clicked();
 
+    // Slot para lidar com o clique no botão de subtração
     void on_btnSubtracao_clicked();
 
+    // Slot para lidar com o clique no botão de multiplicação
     void on_btnMultiplicacao_clicked();
 
+    // Slot para lidar com o clique no botão de divisão
     void on_btnDivisao_clicked();
 
 private:
