@@ -14,6 +14,7 @@
 
 - C++
 - CMake
+- QT Creator
 - QT Framework
 
 ---
